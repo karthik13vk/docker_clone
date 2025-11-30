@@ -9,7 +9,7 @@ import normalscreen from './../../../assets/img/screenshort1.svg';
 import darkscreen from './../../../assets/img/screenshort2.svg';
 const Banner = () => {
     return (
-        <div className='banner-section mt-20 lg:mt-10'>
+        <div className='banner-section pt-20 lg:mt-10'>
             <Box container sx={{ flexGrow: 1 }}>
                 <Container>
                     <Grid container spacing={2}>
