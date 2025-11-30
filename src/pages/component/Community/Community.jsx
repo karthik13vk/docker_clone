@@ -5,7 +5,7 @@ import Container from '@mui/material/Container';
 import './Community.scss';
 const Community = () => {
     return (
-        <div className='community-sec bg-gray-100  py-12 bg-footerbg relative'>
+        <div className='community-sec bg-gray-200  py-12 bg-footerbg relative'>
             <Box container sx={{ flexGrow: 1 }}>
                 <Container>
                     <Grid container spacing={2}>

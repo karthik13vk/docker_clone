@@ -7,20 +7,20 @@
     // background-color: #ffffff80;
     overflow: hidden;
 }
-.community-sec::before{
+.community-sec::before {
     content: "";
     position: absolute;
     top: 0;
     right: 0;
-    width: 400px;
-    height: 400px;
-    background-image: url('./../../../assets/img/bg-community.png');
+    width: 435px;
+    height: 376px;
+    background-image: url("/src/assets/img/bg-community.png");
     opacity: 0.4;
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
-    background-color: #ffffff80;
+    // background-color: rgba(255, 255, 255, 0.5019607843);
 }
 
 // .community-sec-right{
