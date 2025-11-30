@@ -1,10 +1,8 @@
-import React from 'react'
+
 import Box from '@mui/material/Box';
 // import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
-import { IoIosPlayCircle } from 'react-icons/io';
-import { LuDownload } from 'react-icons/lu';
 import { TiSpanner } from "react-icons/ti";
 import { FaCaretRight, FaCloud } from "react-icons/fa";
 import { IoMdShare } from "react-icons/io";

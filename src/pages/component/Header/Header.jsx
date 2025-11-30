@@ -1,5 +1,4 @@
 import React from 'react';
-import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 // import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
@@ -10,7 +9,6 @@ import { FaDocker, FaSearch } from "react-icons/fa";
 import { FaBarsStaggered } from "react-icons/fa6";
 
 import { IoSparklesOutline, IoSunny } from "react-icons/io5";
-import { FaRegMoon } from "react-icons/fa6";
 
 
 
