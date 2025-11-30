@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import './App.css'
 import Header from './pages/component/Header/Header'
 import Banner from './pages/component/Banner/Banner'
