@@ -6,7 +6,7 @@ import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
 
 const Footer = () => {
     return (
-        <div className='footer-sec bg-footerbg pt-4'>
+        <div className='footer-sec bg-footerbg pt-4  border-t border-gray-50'>
             <Box sx={{ flexGrow: 1 }}>
                 <Container>
                     <Grid container spacing={2} size={{ mt:4 }} className="">
