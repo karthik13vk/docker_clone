@@ -1,0 +1,33 @@
+.community-sec{
+    // background-image: url('./../../../assets/img/bg-community.png') ;
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    // background-color: #ffffff80;
+    overflow: hidden;
+}
+.community-sec::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 400px;
+    height: 400px;
+    background-image: url('./../../../assets/img/bg-community.png');
+    opacity: 0.4;
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-color: #ffffff80;
+}
+
+// .community-sec-right{
+//        background-image: url('./../../../assets/img/bg-community.png');
+//     background-size: cover;
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-blend-mode: overlay;
+//     background-color: #ffffff80;
+// }
